@@ -1,0 +1,50 @@
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.deps.json
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.dll
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.pdb
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.AssemblyReference.cache
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfoInputs.cache
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfo.cs
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.CoreCompileInputs.cache
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.dll
+C:/Users/dario/source/repos/Zadaca/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.pdb
+D:/Desktop/DZ1/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.deps.json
+D:/Desktop/DZ1/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.dll
+D:/Desktop/DZ1/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.pdb
+D:/Desktop/DZ1/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.AssemblyReference.cache
+D:/Desktop/DZ1/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.GeneratedMSBuildEditorConfig.editorconfig
+D:/Desktop/DZ1/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfoInputs.cache
+D:/Desktop/DZ1/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfo.cs
+D:/Desktop/DZ1/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.CoreCompileInputs.cache
+D:/Desktop/DZ1/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.dll
+D:/Desktop/DZ1/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.pdb
+D:/Desktop/DZ2/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.AssemblyReference.cache
+D:/Desktop/DZ2/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.GeneratedMSBuildEditorConfig.editorconfig
+D:/Desktop/DZ2/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfoInputs.cache
+D:/Desktop/DZ2/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfo.cs
+D:/Desktop/DZ2/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.CoreCompileInputs.cache
+D:/Desktop/DZ2/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.dll
+D:/Desktop/DZ2/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.pdb
+D:/Desktop/DZ2/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.deps.json
+D:/Desktop/DZ2/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.dll
+D:/Desktop/DZ2/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.pdb
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.deps.json
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.dll
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.pdb
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.AssemblyReference.cache
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfoInputs.cache
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfo.cs
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.CoreCompileInputs.cache
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.dll
+/home/dario/Desktop/Zadaca OOP/DZ3/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.pdb
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.deps.json
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.dll
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/bin/Debug/netcoreapp3.1/WeatherClass.pdb
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.AssemblyReference.cache
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfoInputs.cache
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.AssemblyInfo.cs
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.csproj.CoreCompileInputs.cache
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.dll
+/home/dario/Desktop/Zadaca OOP/DZ4/ClassLibrary1/obj/Debug/netcoreapp3.1/WeatherClass.pdb

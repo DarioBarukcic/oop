@@ -1,0 +1,52 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ]
+
+  {
+    "coord": {
+      "lon": 18.6939,
+      "lat": 45.5511
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 6.47,
+      "feels_like": 4.21,
+      "temp_min": 5.69,
+      "temp_max": 7.9,
+      "pressure": 1024,
+      "humidity": 56
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.09,
+      "deg": 180
+    },
+    "clouds": { "all": 0 },
+    "dt": 1643290497,
+    "sys": {
+      "type": 1,
+      "id": 6384,
+      "country": "HR",
+      "sunrise": 1643263932,
+      "sunset": 1643298205
+    },
+    "timezone": 3600,
+    "id": 3193935,
+    "name": "Osijek",
+    "cod": 200
+  }
+}
